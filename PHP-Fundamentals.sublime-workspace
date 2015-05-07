@@ -1,0 +1,984 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"var",
+				"var_dump〔function〕"
+			],
+			[
+				"ht",
+				"htmlspecialchars"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"_",
+				"$_POST〔variable〕"
+			],
+			[
+				"re",
+				"req1	require_once …"
+			],
+			[
+				"inclu",
+				"include〔function〕"
+			],
+			[
+				"tim",
+				"timeWon"
+			],
+			[
+				"strto",
+				"strtotime(\"now"
+			],
+			[
+				"win",
+				"winners"
+			],
+			[
+				"wi",
+				"winners"
+			],
+			[
+				"w",
+				"winner"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"devi",
+				"$deviceId〔variable〕"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"pro",
+				"protected"
+			],
+			[
+				"recen",
+				"$recentwinnersM〔variable〕"
+			],
+			[
+				"recent",
+				"$recentwinnersD〔variable〕"
+			],
+			[
+				"rece",
+				"$recentwinners〔variable〕"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"risk_au",
+				"risk_autoScale"
+			],
+			[
+				"au",
+				"autoSize"
+			],
+			[
+				"risk",
+				"risk_afterClose"
+			],
+			[
+				"err",
+				"$errorCode〔variable〕"
+			],
+			[
+				"ass",
+				"$assetVer〔variable〕"
+			],
+			[
+				"claim",
+				"claimButton"
+			],
+			[
+				"font",
+				"fontMessage"
+			],
+			[
+				"max",
+				"maxwidth"
+			],
+			[
+				"PchApi",
+				"PchApiHandler〔class〕"
+			],
+			[
+				"recentw",
+				"recentwinners"
+			],
+			[
+				"json",
+				"json_encode〔function〕"
+			],
+			[
+				"prev",
+				"prevSearches"
+			],
+			[
+				"pla",
+				"$playing〔variable〕"
+			],
+			[
+				"isW",
+				"isWinnerSERP"
+			],
+			[
+				"device",
+				"deviceAccessKey"
+			],
+			[
+				"is",
+				"$isWinner〔variable〕"
+			],
+			[
+				"res",
+				"$response〔variable〕"
+			],
+			[
+				"comm",
+				"comm-subsection	Comment - Subsection comment"
+			],
+			[
+				"arra",
+				"array"
+			],
+			[
+				"toke",
+				"tokenbankclient"
+			],
+			[
+				"PchC",
+				"PchClient〔class〕"
+			],
+			[
+				"contest",
+				"contestKey"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"sett",
+				"settings"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"rand",
+				"mt_rand"
+			],
+			[
+				"openx",
+				"openxTimeout"
+			],
+			[
+				"con",
+				"const"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 367.0,
+		"last_filter": "commit",
+		"selected_items":
+		[
+			[
+				"commit",
+				"Git: Commit"
+			],
+			[
+				"synta",
+				"Set Syntax: JSON"
+			],
+			[
+				"syntax ",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"syntax j",
+				"Set Syntax: JSON"
+			],
+			[
+				"comm",
+				"Snippet: Comment - Section header comment"
+			],
+			[
+				"syntax xml",
+				"Set Syntax: XML"
+			],
+			[
+				"synt xm",
+				"Set Syntax: XML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"com",
+				"Snippet: Comment - Full section comment"
+			],
+			[
+				"html",
+				"Snippet: bs3-html5-template"
+			],
+			[
+				"syntax html",
+				"Set Syntax: HTML"
+			],
+			[
+				"svn",
+				"SVN: Commit…"
+			],
+			[
+				"comme	",
+				"Snippet: Comment - Block style comment"
+			],
+			[
+				"svn update",
+				"SVN: Update, Including Externals"
+			],
+			[
+				"svn ",
+				"SVN: Commit…"
+			],
+			[
+				"svn co",
+				"SVN: Commit…"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1016.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/01-Introduction",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02-The-PHP-Language",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions/img",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip"
+	],
+	"file_history":
+	[
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file/file.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/index.tmpl.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/index.php",
+		"/Users/rluna/.bash_profile",
+		"/Users/rluna/.zshrc",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/index.html",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/counter.txt",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/counter/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/counter/index.tmpl.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies/font.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/.htaccess",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02 The PHP Language/09-includes.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02 The PHP Language/09-strings.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03 Passing Values From Page to Page/17-cookies/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-arrays.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-arrays/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/17-cookies/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/17-cookies/font.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/16-sessions-refactoring/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/16-sessions-refactoring/login.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/16-sessions-refactoring/logout.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/16-sessions-refactoring/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/16-sessions-refactoring/admin.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/15-sessions/logout.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/15-sessions/admin.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/15-sessions/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/15-sessions/login.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/13-super-globals/about.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/13-super-globals/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/14-post/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/about.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/styles.css",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/inc/header.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/inc/footer.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/12-heredocs.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/index.php",
+		"/Users/rluna/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-includes.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/1.0.4-patch.txt",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/prizemachine.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/tokenbank.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/billmehandler.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/billmehandlerreport.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/risk_management/mod_pchfrontpage_riskmanagement/assets/css/rm-lightbox.css",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/risk_management/mod_pchfrontpage_riskmanagement/mod_pchfrontpage_riskmanagement.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/risk_management/mod_pchfrontpage_riskmanagement/tmpl/winning_chances.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/prizemachine/mod_pchfrontpage_prizemachine/mod_pchfrontpage_prizemachine.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/prizemachine/mod_pchfrontpage_prizemachine/assets/css/prizeMachine.css",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_prizemachine/instantwin/instantwinclient.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/db/frontpage_dev.2015-03-12 2.sql",
+		"/Users/rluna/Work/PCH/PCHFrontpage/db/frontpage_dev.2015-03-12.sql",
+		"/Users/rluna/Work/PCH/PCHFrontpage/scripts/assemble",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pchsearch/searchactivity.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/build/configure/site.local.properties",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/infospace.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pchsearch/prizemachine.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pchsearch/infospace.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/prizemachine/instantwin/instantwinner.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/prizemachine/mod_pchfrontpage_prizemachine/tmpl/winnereveryhour.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/prizemachine/mod_pchfrontpage_prizemachine/assets/js/prizeMachine.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/prizemachine/mod_pchfrontpage_prizemachine/tmpl/serp.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/prizemachine.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/instantwin.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/pch_lib.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/layouts/mobile.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_prizemachine/instantwin/instantwin.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/externals/lib_pch_prizemachine/instantwin/instantwinhelper.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/logs/instantwin.log",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/templateDetails.xml",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/index.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/layouts/desktop.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/searchactivity.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/html/mod_custom/raw.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/html/index.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/cronjob/recentwinner.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/ads/adtarget.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/libraries/pch/test/debug.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/infospace.frontpage.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/raw.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/prizemachine.php",
+		"/Users/rluna/.ssh/known_hosts",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/configuration.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/rluna@10.1.1.236",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/libraries/pch/prizemachine/instantwin/instantwinclient.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/build/tools/composer/composer.phar",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/prizemachine/instantwin/instantwinner.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/externals/lib_pch_prizemachine/instantwin/instantwin.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/bottom_area/mod_pchfrontpage_winnerbar/tmpl/default.php",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/winners_blanks/recentwinner.json",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/winners_blanks/recentwinners.json",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/content/carousel.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/pchfrontpagecategory.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/article/com_pchfrontpage_story/views/story/view.html.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/category/com_pchfrontpage_category/views/home/view.html.php",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinners_mobile.json",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinner.json",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinners.json",
+		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinner_mobile.json",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/pchfrontpagecategory.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/content/carousel.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/promo_area/ui/js/default.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/promo_area/ui/css/default.scss",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/horoscope.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_sso/baseuser.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-16.02.log",
+		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-17.18.log",
+		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-17.24.log",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_stg/libraries/pchfrontpage/prizemachine/instantwin/instantwinner.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/libraries/pchfrontpage/prizemachine/instantwin/instantwinner.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/pch_settings/instantwin.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/libraries/log4php/INSTALL",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/node_modules/gulp-util/lib/isNull.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/pch_settings/infospace.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/sites.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_system/sites.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/com_pch_registration/views/registration/view.html.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_test/info/rf.php",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/serp.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/serp.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/main.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/main.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/common.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/common.min.js",
+		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/css/serp.min.css"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/rluna/Work/PCH/frontpage/source, *.php",
+			"/Users/rluna/Work/PCH/frontpage/source",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website/",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/frontpage.local.pch.com/",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website/",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website/",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website/modules/mod_pch_uninav",
+			"/Users/rluna/Google Drive/Code/PHP/Pandora/search.local.pch.com/website"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"frontpage_dev",
+			"prod",
+			"frontpage_prod",
+			"frontpage_dev",
+			"Cash",
+			"Anywhere, USA",
+			"Your Name",
+			"Desktop",
+			"allStories",
+			"content",
+			"minStoryParagraphs",
+			"request",
+			"adPositions",
+			"adPlacements",
+			"ads",
+			"prod",
+			"source",
+			"pchportalpc2v2",
+			"pchportalpcv2",
+			"getSettings",
+			"frontpage",
+			"server",
+			"ftp",
+			"ftp_server",
+			"ismobile",
+			"content",
+			"prod",
+			"&quot;",
+			"no_results_message",
+			"error",
+			"overlay",
+			"stylesheetVersioned",
+			"error",
+			"max_searches_before_login",
+			"max_chances_per_day",
+			"max_chances",
+			"winnerTickerJsonObject",
+			"remainingTime",
+			"time",
+			"PM_FAULTS_TAG",
+			"getWinners",
+			"memcached",
+			"isSameSearchTerm",
+			"INSERT_SLOT_ID_HERE",
+			"PUT_SEGID_HERE",
+			"INSERT_RANDOM_NUMBER_HERE",
+			" .",
+			". ",
+			" )",
+			"( ",
+			"complete",
+			"PchfrontpageCategoryHelper",
+			"INSERT_RANDOM_NUMBER_HERE",
+			"<?php echo now; ?>",
+			"INSERT_SLOT_ID_HERE",
+			"<?php echo time(); ?>",
+			"isMobile",
+			"INSERT_RANDOM_NUMBER_HERE",
+			"preprocess",
+			"time",
+			"enableSearching",
+			"isSearchingEnabled",
+			"isWinningEnabled",
+			"getArrayFromXML",
+			"updateSearchActivity",
+			"Request=started",
+			"Instatwinner",
+			"Singleton",
+			"Request=started",
+			"$user",
+			"Request=started",
+			"submitClaim",
+			"Request=started",
+			"response",
+			"Request=started",
+			"callPrizeMachine",
+			"deviceid",
+			"cleanSession",
+			"awardTokensRegistration",
+			"awardTokensCreatePassword",
+			"search",
+			"setSourceDevice",
+			"tokenCreditResponse",
+			"RESPONSE_WITH_FAULT_CODE",
+			"-1",
+			"gfsavw8p",
+			"$message = ",
+			"Pchsearch",
+			"getSettingsHeaderMessage",
+			"sso",
+			"serp_messaging_",
+			"search",
+			"getXmlHeader",
+			"preProcess",
+			"getXmlHeader",
+			"header",
+			"errors",
+			"claim",
+			"prize",
+			"call",
+			"serpheader",
+			"tablet",
+			"desktop",
+			"Desktop",
+			"connect",
+			"Database connection error",
+			"sourceDevice",
+			"leaderboard",
+			"prizemachine",
+			"() {",
+			"-------------------------------------------------------==========*/",
+			"------==================================================",
+			"() {",
+			"userError",
+			"tokenType",
+			"tokenActivity",
+			"tokenTransaction",
+			"phpmyadmin",
+			"Search",
+			");",
+			", ",
+			"PchHtmlUx::value(",
+			"timeoutMs",
+			"tabledata",
+			"optParams",
+			"tabledata",
+			"desktop",
+			"\\'"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"frontpage_prod",
+			"stg",
+			"frontpage_dev",
+			"frontpage_prod",
+			" ",
+			"Mobile",
+			"dev",
+			"tr",
+			"trunk",
+			"FRONTPAGE",
+			"<?php echo $segid; ?>",
+			"<?php echo $now; ?>",
+			".",
+			")",
+			"(",
+			"<?php echo $now; ?>",
+			"<?php echo now; ?>",
+			"<?php echo time(); ?>",
+			"Instantwinner",
+			"Instatwinner",
+			"",
+			"Pchfrontpage",
+			"",
+			"prize",
+			"mobile",
+			"tablet",
+			"Mobile",
+			" () {",
+			"-----------------------------------------------------------------*/",
+			"-------------------------------------------------------",
+			" () {",
+			"Frontpage",
+			";",
+			"] = ",
+			"$data[",
+			"mobile",
+			"tablet",
+			"'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PHP-Fundamentals.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instantwinner",
+				"trunk/source/base/lib_pchfrontpage/prizemachine/instantwin/instantwinner.php"
+			],
+			[
+				"sites.php",
+				"trunk/source/base/pch_settings/sites.php"
+			],
+			[
+				"serp.source.js",
+				"frontpage/source/packages/serp/com_pchsearch_serp/assets/js/serp.source.js"
+			],
+			[
+				"services.php",
+				"website_prod/pch_settings/services.php"
+			],
+			[
+				"infospace.php",
+				"website_prod/pch_settings/infospace.php"
+			],
+			[
+				"pch_lib.php",
+				"source/base/lib_pchfrontpage/pch_lib.php"
+			],
+			[
+				"serpview.html.php",
+				"website/components/com_pchsearch_serp/views/pchsearchserp/view.html.php"
+			],
+			[
+				"serpview",
+				"source/packages/serp/com_pchsearch_serp/views/frontpage/view.html.php"
+			],
+			[
+				"infos",
+				"source/externals/lib_pchsearch/infospace.php"
+			],
+			[
+				"serp.sou",
+				"source/packages/serp/com_pchsearch_serp/assets/js/serp.source.js"
+			],
+			[
+				"serpcomserpdefa",
+				"source/packages/serp/com_pchsearch_serp/views/pchsearchserp/tmpl/default.php"
+			],
+			[
+				"infospace",
+				"website/pch_settings/infospace.php"
+			],
+			[
+				"infospace.fron",
+				"website/pch_settings/infospace.frontpage.php"
+			],
+			[
+				"searchactivity",
+				"website/pch_settings/searchactivity.php"
+			],
+			[
+				"riskmanagement",
+				"source/packages/risk_management/mod_pchfrontpage_riskmanagement/mod_pchfrontpage_riskmanagement.php"
+			],
+			[
+				"logsinstant",
+				"website/logs/instantwin.log"
+			],
+			[
+				"libinfospace",
+				"source/externals/lib_pchsearch/infospace.php"
+			],
+			[
+				"tokenaward",
+				"source/base/lib_pchfrontpage/prizemachine/tokenbank/tokenaward.php"
+			],
+			[
+				"libinfo",
+				"source/externals/lib_pchsearch/infospace.php"
+			],
+			[
+				"searchuser",
+				"source/externals/lib_pchsearch/searchuser.php"
+			],
+			[
+				"frontpageuser",
+				"source/base/lib_pchfrontpage/frontpageuser.php"
+			],
+			[
+				"pchfrontpagecategoryhelper",
+				"source/packages/category/com_pchfrontpage_category/helpers/helper.php"
+			],
+			[
+				"pchfrontpagebillmehandler",
+				"source/base/lib_pchfrontpage/frontpagebillmehandler.php"
+			],
+			[
+				"tokenbankhel",
+				"source/externals/lib_pch_prizemachine/tokenbank/tokenbankhelper.php"
+			],
+			[
+				"pchinstantwinhelper",
+				"source/externals/lib_pch_prizemachine/instantwin/instantwinhelper.php"
+			],
+			[
+				"recentwinners",
+				"website/logs/recentwinners.json"
+			],
+			[
+				"instantwintcline",
+				"source/externals/lib_pch_prizemachine/instantwin/instantwinclient.php"
+			],
+			[
+				"recentwinn",
+				"website/libraries/pch/instantwin/recentwinners.php"
+			],
+			[
+				"recen",
+				"website/libraries/pch/instantwin/recentwinners.php"
+			],
+			[
+				"libsbigquery",
+				"search.local.pch.com/website/libraries/pchsearch/google/bigquery.php"
+			],
+			[
+				"google",
+				"frontpage.local.pch.com/website/pch_settings/googlebigquery.php"
+			],
+			[
+				"googlebig",
+				"website/components/com_pchsearch_serp/assets/js/googleBigQuery.js"
+			],
+			[
+				"token",
+				"website/pch_settings/tokens.php"
+			],
+			[
+				"tempmobileindex.php",
+				"website/templates/pchsearch_mobile/index.php"
+			],
+			[
+				"temptablindex.php",
+				"website/templates/pchsearch_tablet/index.php"
+			],
+			[
+				"levelupcelebration.js",
+				"website/pch_media/js/levelUpCelebration.js"
+			],
+			[
+				"pluginssystempch",
+				"website/plugins/system/pch_lib/pch_lib.php"
+			],
+			[
+				"dynam",
+				"website/pch_media/js/dynamic_iframe.js"
+			],
+			[
+				"modpchtoke",
+				"website/modules/mod_pch_tokencenter/mod_pch_tokencenter.php"
+			],
+			[
+				"searchbox.so",
+				"website/modules/mod_pchsearch_searchbox/assets/js/searchbox.source.js"
+			],
+			[
+				"modsearchbox",
+				"website/modules/mod_pchsearch_searchbox/mod_pchsearch_searchbox.php"
+			],
+			[
+				"modpchssolotto",
+				"website/modules/mod_pch_sso/tmpl/lotto.php"
+			],
+			[
+				"modpchssosearch",
+				"website/modules/mod_pch_sso/tmpl/search.php"
+			],
+			[
+				"compossoprocontro",
+				"website/components/com_pch_ssoproxy/controller.php"
+			],
+			[
+				"mod_pchsearch_sear",
+				"website/modules/mod_pchsearch_searchbox/mod_pchsearch_searchbox.php"
+			],
+			[
+				"tokena",
+				"website/libraries/pchsearch/prizemachine/tokenbank/tokenaward.php"
+			],
+			[
+				"settinfo",
+				"website/pch_settings/infospace.php"
+			],
+			[
+				"temmobiindex.php",
+				"website/templates/pchsearch_mobile/index.php"
+			],
+			[
+				"settin",
+				"website/pch_settings/infospace.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Work/PCH/PCHFrontpage/trunk/PCHFrontpage-trunk.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"notifyTokens",
+				"notifyTokens"
+			]
+		],
+		"width": 548.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 319.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
