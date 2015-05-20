@@ -4,6 +4,82 @@
 		"selected_items":
 		[
 			[
+				"ite",
+				"item2"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"endfor",
+				"endforeach〔keyword〕"
+			],
+			[
+				"prin",
+				"print_r〔function〕"
+			],
+			[
+				"Co",
+				"Config〔class〕"
+			],
+			[
+				"exp",
+				"explode〔function〕"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"pri",
+				"print_r〔function〕"
+			],
+			[
+				"mai",
+				"mailing_list"
+			],
+			[
+				"vali",
+				"valid_email〔function〕"
+			],
+			[
+				"FILTER_V",
+				"FILTER_VALIDATE_EMAIL〔constant〕"
+			],
+			[
+				"filter",
+				"filter_var〔function〕"
+			],
+			[
+				"preg",
+				"preg_match〔function〕"
+			],
+			[
+				"_",
+				"$_REQUEST〔variable〕"
+			],
+			[
+				"s",
+				"$status〔variable〕"
+			],
+			[
+				"req",
+				"require_once〔keyword〕"
+			],
+			[
+				"em",
+				"empty"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
 				"var",
 				"var_dump〔function〕"
 			],
@@ -18,10 +94,6 @@
 			[
 				"text",
 				"textarea	Tag"
-			],
-			[
-				"_",
-				"$_POST〔variable〕"
 			],
 			[
 				"re",
@@ -110,10 +182,6 @@
 			[
 				"claim",
 				"claimButton"
-			],
-			[
-				"font",
-				"fontMessage"
 			],
 			[
 				"max",
@@ -207,6 +275,22 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "09-The-Next-Level/file/file.php",
+			"settings":
+			{
+				"buffer_size": 1201,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "09-The-Next-Level/file/index.php",
+			"settings":
+			{
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -215,10 +299,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 367.0,
-		"last_filter": "commit",
+		"height": 147.0,
+		"last_filter": "install ",
 		"selected_items":
 		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
 			[
 				"commit",
 				"Git: Commit"
@@ -250,10 +346,6 @@
 			[
 				"synt xm",
 				"Set Syntax: XML"
-			],
-			[
-				"install",
-				"Package Control: Install Package"
 			],
 			[
 				"list",
@@ -300,10 +392,6 @@
 				"Package Control: Install Package"
 			],
 			[
-				"install ",
-				"Package Control: Install Package"
-			],
-			[
 				"inst",
 				"Package Control: Install Package"
 			],
@@ -312,7 +400,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 1016.0
+		"width": 593.0
 	},
 	"console":
 	{
@@ -336,32 +424,90 @@
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/01-Introduction",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02-The-PHP-Language",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02-The-PHP-Language/includes/inc",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions/img",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/classes",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/classes-2",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/file",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/utility-classes",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/utility-classes/classes",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/10-Conclusion",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip"
 	],
 	"file_history":
 	[
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/utility-classes/classes/html.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/utility-classes/index.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file/file.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.3-file/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/classes-2/database.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/classes/house.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/composer/composer.json",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/composer/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-The-Next-Level/composer/models/post.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/classes/house.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/admin/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/views/admin/create.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/views/single.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/views/layout.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/views/index.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/db.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/single.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/blog.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog-2/admin/.htaccess",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/db.php",
+		"/Users/rluna/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/views/index.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/views/layout.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/views/single.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/blog.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/08-Hands-On-Project/blog/single.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/mysql_connect/config.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/organizing-pdo/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/organizing-pdo/index2.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/organizing-pdo/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/pdo/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/pdo/config.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/mysql_connect/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/mysql_connect/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/07-PHP-and-MySQL/mysql_connect/index.view.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/pdo/config.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/pdo/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/admin/registered_users.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/admin/registered_users.tmpl.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/functions.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/index.tmpl.php",
+		"/Users/rluna/.zshrc",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/admin/.htaccess",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/registered_users.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/registered_users.tmpl.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/mailing_list.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/05-Midterm-Project/mailing_list.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02-The-PHP-Language/03-printf/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/printf/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.4-homework-solutions/index.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/15-sessions/login.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/16-sessions-refactoring/config.php",
+		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/.htaccess",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.2-file-functions/index.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/index.tmpl.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/index.php",
 		"/Users/rluna/.bash_profile",
-		"/Users/rluna/.zshrc",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/index.html",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/04-Working-With-Files/4.1-counter/counter.txt",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/counter/index.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/Zip/counter/index.tmpl.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies/index.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/03-Passing-Values-From-Page-to-Page/17-cookies/font.php",
-		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/.htaccess",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/index.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02 The PHP Language/09-includes.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/02 The PHP Language/09-strings.php",
@@ -388,7 +534,6 @@
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/inc/footer.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/12-heredocs.php",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/includes/index.php",
-		"/Users/rluna/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/Users/rluna/Work/PHP/Code/Fundamentals/PHP-Fundamentals/09-includes.php",
 		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/1.0.4-patch.txt",
 		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/prizemachine.frontpage.php",
@@ -422,64 +567,11 @@
 		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/logs/instantwin.log",
 		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/templateDetails.xml",
 		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/index.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/layouts/desktop.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/searchactivity.frontpage.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/html/mod_custom/raw.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/html/index.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/cronjob/recentwinner.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/ads/adtarget.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/libraries/pch/test/debug.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/infospace.frontpage.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/raw.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/pch_settings/prizemachine.php",
-		"/Users/rluna/.ssh/known_hosts",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/configuration.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/rluna@10.1.1.236",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/website/libraries/pch/prizemachine/instantwin/instantwinclient.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/build/tools/composer/composer.phar",
-		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/prizemachine/instantwin/instantwinner.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/externals/lib_pch_prizemachine/instantwin/instantwin.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/bottom_area/mod_pchfrontpage_winnerbar/tmpl/default.php",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/winners_blanks/recentwinner.json",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/winners_blanks/recentwinners.json",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/content/carousel.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/lib_pchfrontpage/pchfrontpagecategory.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/article/com_pchfrontpage_story/views/story/view.html.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/category/com_pchfrontpage_category/views/home/view.html.php",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinners_mobile.json",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinner.json",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinners.json",
-		"/Users/rluna/Downloads/2015/02 - Feb/Frontpage/recentwinner_mobile.json",
-		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/pchfrontpagecategory.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/releases/1.0.0/source/base/lib_pchfrontpage/content/carousel.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/promo_area/ui/js/default.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/packages/promo_area/ui/css/default.scss",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/horoscope.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_sso/baseuser.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-16.02.log",
-		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-17.18.log",
-		"/Users/rluna/Work/PCH/PCHFrontpage/deployments/2015.02.23-17.24.log",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_stg/libraries/pchfrontpage/prizemachine/instantwin/instantwinner.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/libraries/pchfrontpage/prizemachine/instantwin/instantwinner.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/pch_settings/instantwin.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/libraries/log4php/INSTALL",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/node_modules/gulp-util/lib/isNull.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/pch_settings/infospace.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/pch_settings/sites.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_system/sites.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/com_pch_registration/views/registration/view.html.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/externals/lib_pch_test/info/rf.php",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/serp.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/serp.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/main.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/main.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/root/dist/js/common.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/js/common.min.js",
-		"/Users/rluna/Work/PCH/PCHFrontpage/website_prod/dist/css/serp.min.css"
+		"/Users/rluna/Work/PCH/PCHFrontpage/trunk/source/base/tmpl_pchfrontpage/layouts/desktop.php"
 	],
 	"find":
 	{
-		"height": 22.0
+		"height": 81.0
 	},
 	"find_in_files":
 	{
@@ -502,6 +594,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"<li>\n				<label for=\"name\">Your name: </label>\n				<input type=\"text\" name=\"name\">\n			</li>\n			",
 			"frontpage_dev",
 			"prod",
 			"frontpage_prod",
@@ -628,8 +721,7 @@
 			"tabledata",
 			"optParams",
 			"tabledata",
-			"desktop",
-			"\\'"
+			"desktop"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -686,8 +778,199 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "09-The-Next-Level/file/file.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1201,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								503,
+								503
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"function_name_status_row": -1,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 23.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "09-The-Next-Level/file/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 57,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content"
+							],
+							"function_name_status_row": 0,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -708,11 +991,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
@@ -950,7 +1240,7 @@
 		[
 			[
 				"",
-				"~/Work/PCH/PCHFrontpage/trunk/PCHFrontpage-trunk.sublime-project"
+				"~/Work/PCH/PCHSearch&Win/trunk/PCHSearch&Win-trunk.sublime-project"
 			]
 		],
 		"width": 380.0

@@ -3,8 +3,8 @@
 session_start();
 
 // Just for now...
-define('USERNAME', 'JeffreyWay');
-define('PASSWORD', '1234');
+define('USERNAME', 'rluna');
+define('PASSWORD', 'secret');
 
 if ( $_SERVER['REQUEST_METHOD'] == 'POST' ) {
 	// get their values
